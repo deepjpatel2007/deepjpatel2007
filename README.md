@@ -96,4 +96,4 @@ I'm a Computer Engineering student at the University of Guelph passionate about 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deep%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deep-patel-50986526b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeppatel2007/)
