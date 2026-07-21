@@ -74,12 +74,8 @@ I'm a Computer Engineering student at the University of Guelph passionate about 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepjpatel2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Deep's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepjpatel2007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Deep's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepjpatel2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepjpatel2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
